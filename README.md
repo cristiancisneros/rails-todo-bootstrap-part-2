@@ -1,6 +1,6 @@
 ### View the Tutorial
 
-The tutorial for this can be found at [http://docs.nitrous.io/v1.0/docs/add-a-bootstrap-layout-for-rails](http://docs.nitrous.io/v1.0/docs/add-a-bootstrap-layout-for-rails)
+The tutorial for this can be found at [http://docs.nitrous.io/v1.0/docs/add-a-bootstrap-layout-to-a-rails-app](http://docs.nitrous.io/v1.0/docs/add-a-bootstrap-layout-to-a-rails-app)
 
 ### Getting Started
 
